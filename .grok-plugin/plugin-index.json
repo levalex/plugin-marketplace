@@ -259,6 +259,18 @@
         ]
       }
     },
+    "feedback-tools": {
+      "sha": "d51f8f6e214edd67dae73ac64675dddc99ae148f",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "feedback-tools",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "figma": {
       "sha": "aaa07946b60797706c131ca50e50ca526a44b073",
       "version": "2.2.126",
